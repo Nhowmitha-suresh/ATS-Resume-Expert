@@ -1,0 +1,29 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# ---- Environments ----
+.venv/
+env/
+venv/
+ENV/
+*.env
+*.env.*
+
+# ---- IDEs ----
+.vscode/
+.idea/
+
+# ---- Streamlit ----
+.streamlit/
+uploads/
+output/
+logs/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
